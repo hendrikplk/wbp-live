@@ -1,0 +1,9 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb+srv://wbp-live:KX9dJENW66ezESA4@wbp-live.fixhshr.mongodb.net/?retryWrites=true&w=majority",
+      "MONGO_OPLOG_URL": "mongodb+srv://wbp-live-op:yYmZhptQDI1qtZle@wbp-live.fixhshr.mongodb.net/local?authSource=admin&w=majority&ssl=true"
+    }
+  },
+  "cdnUrl": "https://d3sanlsyofask0.cloudfront.net"
+}

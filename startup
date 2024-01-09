@@ -1,0 +1,2 @@
+export MONGO_URL="mongodb+srv://wbp:hendrik11@wbp-live.re7ltdd.mongodb.net/meteor?retryWrites=true&w=majority"
+export MONGO_OPLOG_URL="mongodb+srv://wbp-op:hendrik11@wbp-live.re7ltdd.mongodb.net/local?authSource=admin&w=majority&ssl=true"
