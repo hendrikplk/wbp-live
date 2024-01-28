@@ -1,9 +1,9 @@
 {
   "galaxy.meteor.com": {
     "env": {
-      "MONGO_URL": "mongodb+srv://wbp:hendrik11@wbp-live.fixhshr.mongodb.net/?retryWrites=true&w=majority",
-      "MONGO_OPLOG_URL": "mongodb+srv://wbp-op:hendrik11@wbp-live.fixhshr.mongodb.net/local?authSource=admin&w=majority&ssl=true"
+      "MONGO_URL": "mongodb+srv://wbp:hendrik11@wbp-live.re7ltdd.mongodb.net/?retryWrites=true&w=majority",
+      "MONGO_OPLOG_URL": "mongodb+srv://wbp-op:hendrik11@wbp-live.re7ltdd.mongodb.net/local?authSource=admin&w=majority&ssl=true"
     }
   },
-  "cdnUrl": "example"
+  "cdnUrl": ""
 }
